@@ -1,0 +1,16 @@
+# Credenciales
+.env
+includes/.env
+
+# Dependencias
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

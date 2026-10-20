@@ -1,7 +1,8 @@
 # DevWebCamp · Plataforma de eventos en PHP MVC
 
 > **Proyecto de formación.** Proyecto final del curso *Desarrollo Web Completo* de
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> que hice como formación profesional para mi trabajo.
 
 ![PHP](https://img.shields.io/badge/PHP-8-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?logo=mysql&logoColor=white)
@@ -101,7 +102,8 @@ ponentes son del curso; la implementación es mía. Sobre esta base construí
 # DevWebCamp · Event platform in PHP MVC
 
 > **Learning project.** Final project of the *Desarrollo Web Completo* course by
-> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)).
+> Juan Pablo De la Torre Valdez ([Código Con Juan](https://codigoconjuan.com)),
+> taken as professional training for my job.
 
 Website for a developer conference: a schedule of talks and workshops, speakers, ticket
 packages with online payment and an admin panel to manage it all. It is the most complete
